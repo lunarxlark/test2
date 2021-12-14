@@ -2,4 +2,4 @@
 
 test rebase merge
 
-test
+test 2
